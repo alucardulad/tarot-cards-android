@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tarot Cards</string>
+    <string name="your_question">你的问题</string>
+    <string name="what_do_you_want_to_know_today">今天想了解什么？</string>
+    <string name="start_divination">开始占卜</string>
+    <string name="drawn_tarot_cards">抽到的塔罗牌</string>
+    <string name="upright">正位</string>
+    <string name="reversed">逆位</string>
+    <string name="card_icon">卡牌图标</string>
+    <string name="arrow_forward">箭头</string>
+</resources>

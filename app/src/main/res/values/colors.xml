@@ -1,0 +1,20 @@
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- App Colors -->
+    <color name="primary_color">#7D3FE1</color>
+    <color name="secondary_color">#A5F2FF</color>
+    <color name="background_1">#2D1344</color>
+    <color name="background_2">#1E1233</color>
+    <color name="background_3">#120632</color>
+    <color name="nav_background">#2D1344</color>
+    <color name="tab_bar_background">#2D1344</color>
+    <color name="tab_icon_normal">#CCFFFFFF</color>
+    <color name="tab_icon_selected">#7D3FE1</color>
+</resources>
